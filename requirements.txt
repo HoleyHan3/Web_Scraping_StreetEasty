@@ -1,5 +1,9 @@
-beautifulsoup
+beautifulsoup4
 pandas
 scipy
 seaborn
 matplotlib
+numpy
+pyarrow
+requests
+tqdm
