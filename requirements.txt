@@ -9,3 +9,5 @@ requests
 tqdm
 selenium
 fake_useragent
+aiofiles
+aiohttp
