@@ -7,3 +7,5 @@ numpy
 pyarrow
 requests
 tqdm
+selenium
+fake_useragent
