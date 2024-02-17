@@ -1,0 +1,5 @@
+beautifulsoup
+pandas
+scipy
+seaborn
+matplotlib
