@@ -9,5 +9,8 @@ requests
 tqdm
 selenium
 fake_useragent
-aiofiles
-aiohttp
+//aiofiles
+//aiohttp
+//lxml
+//regex
+openpyxl
