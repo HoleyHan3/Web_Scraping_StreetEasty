@@ -1,2 +1,10 @@
 listings.xlsx
 bs4_streeteasy.html
+*.html
+*.json
+review json.ipynb
+zillow_rental_search_p1.txt
+zillow_rental_search_p2.txt
+zillow_rental_search_results.txt
+zillow_sales_search_results.txt
+zillow_rental_search_p2.html

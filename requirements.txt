@@ -14,3 +14,4 @@ fake_useragent
 //lxml
 //regex
 openpyxl
+zillow_sales_search_results.txt
