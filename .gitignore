@@ -2,6 +2,7 @@ listings.xlsx
 bs4_streeteasy.html
 *.html
 *.json
+*.DS_Store
 review json.ipynb
 zillow_rental_search_p1.txt
 zillow_rental_search_p2.txt
